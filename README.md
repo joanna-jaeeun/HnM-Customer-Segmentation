@@ -58,8 +58,9 @@ This segmentation will allow us to understand the distinct profiles and preferen
 </div>
 
 ## Conclusions
-- Business end
-- User end
+
+- User end : personalized shopping experiences based on their purchase behavior
+- Business end : personalized shopping experiences based on their purchase behavior, identify high-value or at-risk customers to improve retention and engagement, Supports personalized promotions, leading to improved ROI and reduced marketing costs.
 
 
 
